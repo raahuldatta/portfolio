@@ -1,0 +1,35 @@
+{
+  "name": "raahuldatta",
+  "version": "1.0.0",
+  "description": "Interactive CLI portfolio for Raahul Datta — backend, cloud & GenAI engineer. Run with npx.",
+  "type": "module",
+  "bin": {
+    "raahuldatta": "bin/raahuldatta.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "portfolio",
+    "cli",
+    "resume",
+    "cv"
+  ],
+  "author": "Raahul Datta Nidumoru <raahuldatta@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://raahuldatta.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raahuldatta/raahul-datta-portfolio.git"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.9.1",
+    "figlet": "^1.7.0",
+    "gradient-string": "^3.0.0",
+    "picocolors": "^1.1.1"
+  }
+}
