@@ -19,11 +19,11 @@ Most portfolios are a list of links. This one is meant to read like a technical 
 
 It covers:
 
-- **Eight shipped projects** across AI systems, applied ML, and full-stack software engineering — each linking out to its own source repo.
-- **A "Building now" section** for in-progress, not-yet-public work (Vaultmind, Verdikt, Quardian) — labeled explicitly as work-in-progress, not finished claims.
-- **A stack breakdown** across languages, frontend, backend/data, and cloud/tooling.
-- **Experience and achievements** — internships, certifications, and hackathon/challenge work.
-- **Direct contact and resume access** — no gatekeeping, no contact form.
+- **Eight shipped projects:** across AI systems, applied ML, and full-stack software engineering — each linking out to its own source repo.
+- **A "Building now" section:** for in-progress, not-yet-public work (Vaultmind, Verdikt, Quardian) — labeled explicitly as work-in-progress, not finished claims.
+- **A stack breakdown:** across languages, frontend, backend/data, and cloud/tooling.
+- **Experience and achievements:** — internships, certifications, and hackathon/challenge work.
+- **Direct contact and resume access:** — no gatekeeping, no contact form.
 
 ---
 
